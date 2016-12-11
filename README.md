@@ -23,3 +23,5 @@ This program is designed to simulate a variety of "life-like" automata, meaning 
 
 ### Patterns
 Even given random initial conditions, the game of life will produce interesting results. However, the more interesting a pattern, the less common it is. Some interesting patterns have been programmed in. Hotkeys for these patterns are displayed on the control pannel. Simply press a hotkey corresponding to a pattern and click on the board where you would like to place the pattern.
+
+![Alt Text](/ScreenShots/ConwayLife.png)
